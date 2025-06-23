@@ -1,0 +1,10 @@
+:- export r/1, q/2, p/2.
+
+r(a).
+r(b).
+
+q(a, a).
+q(a, b).
+
+p(a, a).
+p(a, b).

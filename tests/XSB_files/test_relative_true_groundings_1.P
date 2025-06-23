@@ -1,0 +1,4 @@
+:- export r/3.
+
+r(a,a).
+r(b,a).
